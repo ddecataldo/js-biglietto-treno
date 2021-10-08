@@ -33,4 +33,4 @@ if(etaPaseggero < 18) {
 }
 
 // Prezzo Totale
-alert(prezzoTotale.toFixed(2));
+alert("Il prezzo del biglietto è di: " + prezzoTotale.toFixed(2) + "€");
